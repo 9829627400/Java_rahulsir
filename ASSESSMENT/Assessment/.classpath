@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="MVC-Assessment-main/MVC Assessment/src/main/java"/>
+	<classpathentry kind="lib" path="MVC-Assessment-main/MVC Assessment/src/main/webapp/WEB-INF/lib/mysql-connector-java-3.1.12.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Assignment_4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/book-api-master (1)"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/com.Assignment3"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Corejava"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Framework_Assessment_ORM"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/J2EEExample"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MODULE_1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MODULE_2"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MVC_Noon"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MVC Assessment"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ORM"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/project_1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Project_3"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ProjectEvening"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Q5"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RestFramework-main"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Spring_App"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Spring_MVC"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SpringApi"/>
+	<classpathentry kind="output" path="MVC-Assessment-main/MVC Assessment/build/classes"/>
+</classpath>
